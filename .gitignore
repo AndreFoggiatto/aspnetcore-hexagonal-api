@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+wwwroot/node_modules/
+appsettings.*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Others
+*.swp
+*.tmp
+*.temp

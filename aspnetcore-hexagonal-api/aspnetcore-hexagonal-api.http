@@ -1,0 +1,6 @@
+@aspnetcore_hexagonal_api_HostAddress = http://localhost:5044
+
+GET {{aspnetcore_hexagonal_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
