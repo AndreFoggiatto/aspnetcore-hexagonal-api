@@ -48,8 +48,8 @@ public static class ServiceCollectionExtensions
                 Description = "Uma API desenvolvida com arquitetura hexagonal baseada em features",
                 Contact = new Microsoft.OpenApi.Models.OpenApiContact
                 {
-                    Name = "Development Team",
-                    Email = "dev@company.com"
+                    Name = "André",
+                    Email = "andrefoggiatto10@gmail.com"
                 }
             });
 

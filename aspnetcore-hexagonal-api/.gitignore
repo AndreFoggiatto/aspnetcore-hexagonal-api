@@ -18,6 +18,7 @@ out/
 
 # Logs
 *.log
+logs/
 
 # NuGet
 *.nupkg
